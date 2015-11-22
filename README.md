@@ -1,1 +1,1 @@
-# sistema de gestión escolar
+# Sistema de gestión escolar
